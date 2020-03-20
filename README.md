@@ -34,6 +34,6 @@
   <li>Abrir a pasta no VSCode por meio de File > Open Folder</li>
   <li>Executar o Debug and Run por meio de Execute > Debug and Run</li>
   <li>Adicionar a configuração .NET Core Launch e executar</li>
-  <li>Após isso se não ocorreu nenhum erro no terminal o endpoint http://localhost:5000/WeatherForecast deve estar disponível para ser acessado pelo navegador, retornando um JSON com alguns dados teste</li>
+  <li>Após isso se não ocorreu nenhum erro no terminal o endpoint http://localhost:5000/WeatherForecast deve estar disponível para ser acessado pelo navegador, retornando um JSON com alguns dados de teste</li>
 </ul>
   
