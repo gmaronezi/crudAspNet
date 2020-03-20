@@ -13,7 +13,7 @@
   
 <h4>VS CODE</h4>
 <ul>
-<li>Download do VS Code AQUI <a href="https://code.visualstudio.com/download">AQUI</a></li>
+<li>Download do VS Code <a href="https://code.visualstudio.com/download">AQUI</a></li>
 <li>Instalação padrão</li>
 <li>Após a instalação abrir o VS Code e instalar as extensões necessárias a seguir</li>
 <ol>
@@ -34,6 +34,6 @@
   <li>Abrir a pasta no VSCode por meio de File > Open Folder</li>
   <li>Executar o Debug and Run por meio de Execute > Debug and Run</li>
   <li>Adicionar a configuração .NET Core Launch e executar</li>
-  <li>Após isso se não ocorreu nenhum erro no terminal o endpoint http://localhost:5000/WeatherForecast deve estar disponível para ser acessado pelo navegador, retornando um JSON com alguns dados de teste</li>
+  <li>Após isso, se não ocorreu nenhum erro no terminal, o endpoint http://localhost:5000/WeatherForecast deve estar disponível para ser acessado pelo navegador, retornando um JSON com alguns dados de teste</li>
 </ul>
   
