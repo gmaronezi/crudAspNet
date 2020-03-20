@@ -24,7 +24,7 @@
 </ol>
 </ul>
   
- <h4>VERIFICAÇÃO FINAL</h4>
+ <h2>VERIFICAÇÃO FINAL</h2>
  <ul>
   <li>Criar uma pasta para conter o projeto teste</li>
   <li>Abrir a pasta pelo terminal. Pode-se utilizar o terminal integrado do VSCODE</li>
